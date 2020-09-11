@@ -1,0 +1,2 @@
+# ParcialCorte1
+codigo
